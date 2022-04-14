@@ -1,7 +1,3 @@
-feature-1.js
-src/
-!src/style.css
-*.zip
-.DS_Store
+
 #this are all comomon file system
 password.txt
