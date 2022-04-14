@@ -1,5 +1,5 @@
 feature-1.js
-src/*
+src/
 !src/style.css
 *.zip
 .DS_Store
